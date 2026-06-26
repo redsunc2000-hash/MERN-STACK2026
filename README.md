@@ -7,7 +7,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/Auth-JWT-black?logo=jsonwebtokens)
 
-**Live Demo:** _(เพิ่มลิงก์หลัง deploy บน Render)_
+**Live Demo:** https://mern-blog-client-1jdx.onrender.com/
 
 ## Features
 
